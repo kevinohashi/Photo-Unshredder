@@ -1,6 +1,6 @@
 <?php
 
-
+//I will totally improve the performance of this, later
 
 $image = new Imagick('image.png');
 
